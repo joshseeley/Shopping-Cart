@@ -1,0 +1,6 @@
+user: joshseeley@gmail.com
+pass: Codingisfun1
+
+go into my-project folder
+open git bash
+npm strapi start
